@@ -6,8 +6,8 @@ This is incomplete as it lacks solutions for 13 and 14 challenges (Wallet Mining
 
 For every other level there is a README file with solution and a coded exploit if it was required.
 
-1. [Unstoppable solution](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/unstoppable)
-2. [Naive receiver solution](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/naive-receiver)
+1. [Unstoppable](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/unstoppable)
+2. [Naive receiver](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/naive-receiver)
 3. [Truster solution](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/truster)
 4. [Side Entrance](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/side-entrance)
 5. [The Rewarder](https://github.com/seeques/DamnVulnerableDefiV3-foundry-solutions/tree/master/test/Levels/the-rewarder)
